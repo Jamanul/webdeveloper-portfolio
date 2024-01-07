@@ -1,0 +1,42 @@
+header{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #FFF8F3;
+}
+.primary-color{
+    color: #FD6E0A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+nav > ul{
+    display: flex;
+    align-items: center;
+}
+nav li{
+    list-style: none;
+    margin-right: 50px;
+    align-items: center;
+}
+nav a{
+    text-decoration: none;
+    color: #474747;
+}
+.nav-primary{
+    font-size: 45px;
+    font-weight: 800;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.btn-primary{
+    border-radius: 10px;
+    background-color: #FD6E0A;
+    padding: 15px 35px;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    border: none;
+
+
+}
